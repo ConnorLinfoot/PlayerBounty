@@ -1,0 +1,4 @@
+name: PlayerBounty
+description: PlayerBounty
+main: com.connorlinfoot.playerbounty.Main
+version: 1.0
